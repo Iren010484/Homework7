@@ -1,0 +1,15 @@
+C:\Ирина\GB\Программирование С#\homework7\Task03\obj\Debug\net6.0\Task03.csproj.AssemblyReference.cache
+C:\Ирина\GB\Программирование С#\homework7\Task03\obj\Debug\net6.0\Task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ирина\GB\Программирование С#\homework7\Task03\obj\Debug\net6.0\Task03.AssemblyInfoInputs.cache
+C:\Ирина\GB\Программирование С#\homework7\Task03\obj\Debug\net6.0\Task03.AssemblyInfo.cs
+C:\Ирина\GB\Программирование С#\homework7\Task03\obj\Debug\net6.0\Task03.csproj.CoreCompileInputs.cache
+C:\Ирина\GB\Программирование С#\homework7\Task03\bin\Debug\net6.0\Task03.exe
+C:\Ирина\GB\Программирование С#\homework7\Task03\bin\Debug\net6.0\Task03.deps.json
+C:\Ирина\GB\Программирование С#\homework7\Task03\bin\Debug\net6.0\Task03.runtimeconfig.json
+C:\Ирина\GB\Программирование С#\homework7\Task03\bin\Debug\net6.0\Task03.dll
+C:\Ирина\GB\Программирование С#\homework7\Task03\bin\Debug\net6.0\Task03.pdb
+C:\Ирина\GB\Программирование С#\homework7\Task03\obj\Debug\net6.0\Task03.dll
+C:\Ирина\GB\Программирование С#\homework7\Task03\obj\Debug\net6.0\refint\Task03.dll
+C:\Ирина\GB\Программирование С#\homework7\Task03\obj\Debug\net6.0\Task03.pdb
+C:\Ирина\GB\Программирование С#\homework7\Task03\obj\Debug\net6.0\Task03.genruntimeconfig.cache
+C:\Ирина\GB\Программирование С#\homework7\Task03\obj\Debug\net6.0\ref\Task03.dll
